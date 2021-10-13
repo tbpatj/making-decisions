@@ -109,7 +109,9 @@ for(let i = 0; i < 10; i ++){
 */
 
 //CODE HERE
-
+for(let i = 0; i < 10; i ++){
+  console.log(i + 1);
+}
 
 ////////// PROBLEM 7 //////////
 
@@ -118,6 +120,10 @@ for(let i = 0; i < 10; i ++){
 */
 
 //CODE HERE
+for(let i = 10; i > 0; i --){
+  console.log(i);
+}
+
 
 let score = 0
 let passingScore = 7
